@@ -1,7 +1,7 @@
 # Shadows_Rising_RPG-0.0.5b
 Shadows Rising is a browser based RPG written in PHP, Javascript, and XHTML.
 
-:sparkles: Welcome to Shadows Rising RPG :sparkles:
+:sparkles: # Welcome to Shadows Rising RPG :sparkles:
 
 
 # SHADOWS RISING RPG
